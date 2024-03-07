@@ -41,14 +41,14 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 <div align="center">
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<!--  
+ 
 ### Programming Languages:
 
 [![Python, C#, Java](https://skillicons.dev/icons?i=py,cs,java)](https://skillicons.dev)
--->
+
 ### Front-End Development:
 
-[![HTML, CSS](https://skillicons.dev/icons?i=html,tailwind,css)](https://skillicons.dev)
+[![HTML, CSS](https://skillicons.dev/icons?i=js,html,tailwind,css,ts)](https://skillicons.dev)
 
 
 ### Softwares and Tools:
