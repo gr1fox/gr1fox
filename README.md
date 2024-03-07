@@ -60,10 +60,10 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/)
 # <picture><img src="./assets/images/stats.gif" width = 50px></picture> **Stats**
 <br>
 
- <p> <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1f0x&theme=tokyonight"/> </p>
- <p> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gr1f0x&show_icons=true&include_all_commits=false&rank_icon=github&custom_title=Github%20Stats&theme=tokyonight"/>
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1f0x&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" /> </p>
-  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gr1f0x&theme=tokyonight" alt="gr1f0x" /></a> </p>
+ <p> <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1fox&theme=tokyonight"/> </p>
+ <p> <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=gr1fox&show_icons=true&include_all_commits=false&rank_icon=github&custom_title=Github%20Stats&theme=tokyonight"/>
+<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gr1fox&exclude_repo=&layout=compact&langs_count=6&card_width=320&theme=tokyonight" /> </p>
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gr1fox&theme=tokyonight" alt="gr1f0x" /></a> </p>
 
   
 <br>
